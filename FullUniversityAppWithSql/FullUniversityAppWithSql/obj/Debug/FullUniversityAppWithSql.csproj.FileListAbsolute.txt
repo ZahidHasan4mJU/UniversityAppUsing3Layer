@@ -1,0 +1,14 @@
+c:\users\zahid\documents\visual studio 2012\Projects\FullUniversityAppWithSql\FullUniversityAppWithSql\bin\Debug\FullUniversityAppWithSql.exe.config
+C:\Users\zahid\Documents\Visual Studio 2012\Projects\FullUniversityAppWithSql\FullUniversityAppWithSql\bin\Debug\FullUniversityAppWithSql.exe
+C:\Users\zahid\Documents\Visual Studio 2012\Projects\FullUniversityAppWithSql\FullUniversityAppWithSql\bin\Debug\FullUniversityAppWithSql.pdb
+C:\Users\zahid\Documents\Visual Studio 2012\Projects\FullUniversityAppWithSql\FullUniversityAppWithSql\obj\Debug\FullUniversityAppWithSql.csprojResolveAssemblyReference.cache
+C:\Users\zahid\Documents\Visual Studio 2012\Projects\FullUniversityAppWithSql\FullUniversityAppWithSql\obj\Debug\FullUniversityAppWithSql.DepartmentUIForm.resources
+C:\Users\zahid\Documents\Visual Studio 2012\Projects\FullUniversityAppWithSql\FullUniversityAppWithSql\obj\Debug\FullUniversityAppWithSql.MainUI.resources
+C:\Users\zahid\Documents\Visual Studio 2012\Projects\FullUniversityAppWithSql\FullUniversityAppWithSql\obj\Debug\FullUniversityAppWithSql.Properties.Resources.resources
+C:\Users\zahid\Documents\Visual Studio 2012\Projects\FullUniversityAppWithSql\FullUniversityAppWithSql\obj\Debug\FullUniversityAppWithSql.UniversityUI.resources
+C:\Users\zahid\Documents\Visual Studio 2012\Projects\FullUniversityAppWithSql\FullUniversityAppWithSql\obj\Debug\FullUniversityAppWithSql.csproj.GenerateResource.Cache
+C:\Users\zahid\Documents\Visual Studio 2012\Projects\FullUniversityAppWithSql\FullUniversityAppWithSql\obj\Debug\FullUniversityAppWithSql.exe
+C:\Users\zahid\Documents\Visual Studio 2012\Projects\FullUniversityAppWithSql\FullUniversityAppWithSql\obj\Debug\FullUniversityAppWithSql.pdb
+C:\Users\zahid\Desktop\New folder\FullUniversityAppWithSql\FullUniversityAppWithSql\bin\Debug\FullUniversityAppWithSql.exe.config
+C:\Users\zahid\Desktop\New folder\FullUniversityAppWithSql\FullUniversityAppWithSql\obj\Debug\FullUniversityAppWithSql.exe
+C:\Users\zahid\Desktop\New folder\FullUniversityAppWithSql\FullUniversityAppWithSql\obj\Debug\FullUniversityAppWithSql.pdb
